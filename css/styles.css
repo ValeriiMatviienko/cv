@@ -196,7 +196,7 @@ body {
 
 .projects__list-text {
   font-weight: 400;
-  color: #595959;
+  color: #000;
   background-color: #fff;
   transition: all 0.3s linear;
 }
@@ -225,7 +225,7 @@ body {
   font-weight: 400;
   font-size: 12px;
   line-height: 24px;
-  color: #a8a8a8;
+  color: #000;
   letter-spacing: 0.36px;
 }
 .work-experience__list {
@@ -238,7 +238,7 @@ body {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
-  color: #595959;
+  color: #000;
   letter-spacing: 0.46px;
 }
 
