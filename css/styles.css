@@ -139,7 +139,7 @@ body {
 .about-subtitle {
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.42px;
 }
@@ -240,6 +240,14 @@ body {
   line-height: 24px;
   color: #000;
   letter-spacing: 0.46px;
+}
+
+.certificate__list-text {
+  font-weight: 400;
+  color: #000;
+  background-color: #fff;
+  transition: all 0.3s linear;
+  text-decoration: underline;
 }
 
 /* EDUCATION */
