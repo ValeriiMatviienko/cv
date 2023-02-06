@@ -166,7 +166,7 @@ body {
 }
 
 .projects__list {
-  width: 466px;
+  width: 550px;
   list-style: none;
   counter-reset: projects-counter;
   padding-left: 22px;
